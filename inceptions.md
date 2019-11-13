@@ -260,9 +260,9 @@ THEN ____     [the system is in this state, or responds in this way]
 
 <!--BOX-->
 
-**GIVEN** I have $100 in my bank account, <br>
-**WHEN** I attempt to withdraw $200, <br>
-**THEN** the bank should reject the transaction <br>
+**GIVEN** I have $100 in my bank account, <br />
+**WHEN** I attempt to withdraw $200, <br />
+**THEN** the bank should reject the transaction <br />
 **AND** I should still have $100 in my account
 
 <!--/BOX-->
