@@ -17,7 +17,7 @@ The basic principle of TDD is that you write your tests first, and then you writ
 
 # Make it green, then make it clean
 
-![Make it green](/images/make-it-green.png)
+![Make it green](https://res.cloudinary.com/btvca/image/upload/v1574445195/curriculum/make-it-green_idv1xu.png)
 
 # Addicted to green
 

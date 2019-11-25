@@ -100,7 +100,7 @@ _Docendo discimus_ - "by teaching we learn"
 
 > It's better to have them and not need them, than to need them and not have them.
 
-![mentos](/images/mentos.jpg)
+![mentos](https://res.cloudinary.com/btvca/image/upload/v1574445189/curriculum/mentos_b2zsnk.jpg)
 
 # Do...
 

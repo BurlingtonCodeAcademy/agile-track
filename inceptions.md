@@ -123,7 +123,7 @@ How do we want to work?
 
 # Elevator Pitch
 
-Play the ![Mad Libs](/images/mad-libs.jpg) Pitch Game!
+Play the ![Mad Libs](https://res.cloudinary.com/btvca/image/upload/v1574445187/curriculum/mad-libs_kzs1vq.jpg) Pitch Game!
 
 > An elevator pitch is a concise, clear, persuasive explanation of a product that can be told in the time it would take to ride an elevator.
 
@@ -136,7 +136,7 @@ Then select a spokesperson to share your result with the group. If time allows, 
 
 # Elevator Pitch Example
 
-![elevator pitch](/images/elevator-pitch.png)
+![elevator pitch](https://res.cloudinary.com/btvca/image/upload/v1574445174/curriculum/elevator-pitch_knrgoy.png)
 
 (from <https://agilewarrior.wordpress.com/2010/11/06/the-agile-inception-deck/>)
 

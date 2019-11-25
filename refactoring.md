@@ -1,6 +1,6 @@
 # The Zen of Refactoring
 
-![buddha](/images/buddha-statue.jpg)
+![buddha](https://res.cloudinary.com/btvca/image/upload/v1574445171/curriculum/buddha-statue_jnp2yn.jpg)
 
 Refactoring is the process of restructuring existing computer code -- changing its *factors* -- without changing its behavior. You probably knew that. But did you know it’s also a meditation technique? Come improve your practice of mindful coding.
 
@@ -22,7 +22,7 @@ After these slides, we’ll start with some actual production code, make sure it
 
 > mostly an excuse for pretty pictures and hippie jokes
 
-![zen](/images/don-zen.gif)
+![zen](https://res.cloudinary.com/btvca/image/upload/v1574445177/curriculum/don-zen_tvocqh.gif)
 
 > disclaimer: This presentation uses some
 > spiritual imagery but is not intended to
@@ -60,13 +60,13 @@ debugging
 
 # Why refactor?
 
-![yoda](/images/yoda-clear-your-mind.gif)
+![yoda](https://res.cloudinary.com/btvca/image/upload/v1574445224/curriculum/yoda-clear-your-mind_he0d6i.gif)
 
 # Refactor to understand
 
 clarity calm insight knowledge understanding
 
-![pool](/images/hand-pool.gif)
+![pool](https://res.cloudinary.com/btvca/image/upload/v1574445189/curriculum/hand-pool_mjtc7n.gif)
 
 See the code for what it is, not what you think it is, or what you want it to be
 
@@ -74,7 +74,7 @@ See the code for what it is, not what you think it is, or what you want it to be
 
 DRY
 
-![sand](/images/stone-sand.png)
+![sand](https://res.cloudinary.com/btvca/image/upload/v1574445213/curriculum/stone-sand_hztqkv.png)
 
 # Refactor to increase code clarity
 
@@ -131,11 +131,11 @@ tests are an extension of code
 
 # Reversible
 
-![reversible](/images/spinning-yin-yang.gif)
+![reversible](https://res.cloudinary.com/btvca/image/upload/v1574445206/curriculum/spinning-yin-yang_zsggiv.gif)
 
 # Mechanical
 
-![grievous.gif](/images/grievous.gif)
+![grievous.gif](https://res.cloudinary.com/btvca/image/upload/v1574445186/curriculum/grievous_qm3win.gif)
 
 # Brief
 
@@ -147,7 +147,7 @@ I choose my text editor based on how well it refactors my code
 
 (Other programmers may have different criteria.)
 
-![real programmers use](/images/real-programmers.png)
+![real programmers use](https://res.cloudinary.com/btvca/image/upload/v1574445197/curriculum/real-programmers_t47ap3.png)
 <https://xkcd.com/378/>
 
 
@@ -340,7 +340,7 @@ course.students[0].phone.sendText('hi')
 
 # The Book
 
-![refactoring-fowler](/images/refactoring-book.jpg)
+![refactoring-fowler](https://res.cloudinary.com/btvca/image/upload/v1574445197/curriculum/refactoring-book_kno6wc.jpg)
 
 <https://martinfowler.com/books/refactoring.html>
 

@@ -1,6 +1,6 @@
 # Planning in XP
 
-![planning loops](/images/planning_loops.svg)
+![planning loops](https://res.cloudinary.com/btvca/image/upload/v1574445195/curriculum/planning_loops_lqkbi2.svg)
 
 (from <https://en.wikipedia.org/wiki/Extreme_programming>)
 
@@ -66,7 +66,7 @@ There are other types of stories and tasks...
 
 # Story Lifecycle
 
-![tracker story lifecycle](/images/tracker-workflow.png)
+![tracker story lifecycle](https://res.cloudinary.com/btvca/image/upload/v1574445209/curriculum/tracker-workflow_egskbc.png)
 
 (this diagram is from Pivotal Tracker but the workflow applies to most Agile processes and tools)
 
