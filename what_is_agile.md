@@ -136,4 +136,4 @@ then improve the rules
 
 # Retrospectives
 
-see [cadence](/agile-track/cadence) and [retrospectives](/agile-track/retrospectives) lessons
+see [cadence](/lessons/agile-track/cadence) and [retrospectives](/lessons/agile-track/retrospectives) lessons
